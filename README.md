@@ -6,6 +6,7 @@ In this README you can find some information about me as a person, professional 
 
 ## Tech interests
 Currently I would describe myself as a full stack web developer with a preference for BE related work.
+<br/>
 This preference comes from my interest in creating (complex) functionality in software. 
 <br/>
 How things look always get pushed aside.
@@ -22,8 +23,7 @@ In this current semester (#5) I am following an Internship at Limax B.v.
 <br/>
 Here I am working on a system called Flowcontrol. This system is created to digitalize the business process of Limax.
 <br/>
-My assignment is to analyze and improve the current security implementation. 
-This work is supported by research documentation and an implementation of the recommandations coming from the research.
+My assignment is to analyze and improve the current security implementation.
 <br/>
 Unfortunately, is my work stored in a private repository due to confidentiality.
 
