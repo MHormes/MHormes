@@ -1,6 +1,4 @@
 ### Hi there 👋
-In this README you can find some information about me as a person, professional and student. 
-<br/>
 ###### Feel free to check out the links at the end.
 
 
