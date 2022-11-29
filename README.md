@@ -30,11 +30,10 @@ Unfortunately, is my work stored in a private repository due to confidentiality.
 ### Developed in: 
  - C#
  - Java (Spring)
- - JavaScript (React.js)
+ - JavaScript (React.js / Vue.js)
 ### Been in contact with:
  - PHP
  - MySQL
- - Vue.js
  - HTML/CSS
 
 ###### [Github.io]() - Still under construction
