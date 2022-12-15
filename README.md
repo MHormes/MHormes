@@ -27,11 +27,11 @@ Unfortunately, is my work stored in a private repository due to confidentiality.
 
 
 ## Experience
-### Developed in: 
- - C#
+### Developed with: 
+ - C# 
  - Java (Spring)
  - JavaScript (React.js / Vue.js)
-### Been in contact with:
+### Some experience in:
  - PHP
  - MySQL
  - HTML/CSS
@@ -40,4 +40,4 @@ Unfortunately, is my work stored in a private repository due to confidentiality.
 ###### [LinkedIn](https://www.linkedin.com/in/maarten-hormes-72a665110/)
 
 <!-- To Add:
- Ambitions / Hobbies / Dreams / Goals-->
+ Ambitions / Hobbies / Dreams -->
