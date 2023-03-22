@@ -24,7 +24,7 @@ At this moment I am working on one (1) side project.
 
 
 ### Developed with:
-- C#
+- C# (.NET)
 - Java (Spring Boot)
 - JavaScript (Node.js, React.js, Vue.js)
 
@@ -35,26 +35,18 @@ At this moment I am working on one (1) side project.
 - IntelliJ
 - Visual Studio (Code)
 - Jira
+- Postman
+- Sonarqube
 
 
 ## Studies
-Currently. I am a 3rd year student at HBO-ICT & Software engineering located at Fontys Eindhoven.
+Currently. I am a 3rd year student at Fontys ICT & Software engineering located in Eindhoven.
 
 ### Current Semester
 In this current semester (#6) I am following the minor embrace TEC.
 <br/>
 This minor is provided by a subdivision of Fontys called Pulsed.
 
-
-## Ambitions 
- - Become a self-employed full stack (web) developer.
- - Work as a digital nomad of some sorts.
- - Release a fully functional, widely used, web/mobile application.
-
-
 ## Links
-###### [Github.io]() - Still under construction
+###### [Portfolio](https://mhormes.github.io/)
 ###### [LinkedIn](https://www.linkedin.com/in/maarten-hormes-72a665110/)
-
-<!-- To Add:
- / Hobbies /-->
