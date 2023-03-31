@@ -31,12 +31,12 @@ Here I am working on a system called Flowcontrol. This system is created to digi
 ### Tools & Tech used:
 - Docker
 - Keycloak
+- Postman
+- Sonarqube
+- JIRA
 - TailwindCSS
 - IntelliJ
 - Visual Studio (Code)
-- Jira
-- Postman
-- Sonarqube
 
 
 ## Studies
