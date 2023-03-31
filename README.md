@@ -20,7 +20,7 @@ At this moment I am working on one (1) side project.
 
 ### Current workplace
 -  [Limax](https://www.limax.nl/) - A company in the agriculture sector.
-###### Here I am working on a system called Flowcontrol. This system is created to digitalize the business process of Limax.
+Here I am working on a system called Flowcontrol. This system is created to digitalize the business process of Limax.
 
 
 ### Developed with:
