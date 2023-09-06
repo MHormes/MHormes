@@ -43,7 +43,7 @@ Here I am working on a system called Flowcontrol. This system is created to digi
 Currently. I am a 4th year student at Fontys ICT & Software engineering located in Eindhoven.
 
 ### Current Semester
-In this current semester (#7) I am following the course Enterprise Software Development.
+In this current semester (#7) I am following the course Enterprise Software Engineering.
 <br/>
 This course is the advanced software course and is the last step before my graduation.
 
