@@ -40,12 +40,12 @@ Here I am working on a system called Flowcontrol. This system is created to digi
 
 
 ## Studies
-Currently. I am a 3rd year student at Fontys ICT & Software engineering located in Eindhoven.
+Currently. I am a 4th year student at Fontys ICT & Software engineering located in Eindhoven.
 
 ### Current Semester
-In this current semester (#6) I am following the minor embrace TEC.
+In this current semester (#7) I am following the course Enterprise Software Development.
 <br/>
-This minor is provided by a subdivision of Fontys called Pulsed.
+This course is the advanced software course and is the last step before my graduation.
 
 ## Links
 ###### [Portfolio](https://mhormes.github.io/)
