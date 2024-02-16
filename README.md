@@ -43,9 +43,9 @@ Here I am working on a system called Flowcontrol. This system is created to digi
 Currently. I am a 4th year student at Fontys ICT & Software engineering located in Eindhoven.
 
 ### Current Semester
-In this current semester (#7) I am following the course Enterprise Software Engineering.
+In this current semester (#8) I am performing my Graduation Internship
 <br/>
-This course is the advanced software course and is the last step before my graduation.
+I will be performing my graduation assignment at Quad Solutions in Eindhoven
 
 ## Links
 ###### [Portfolio](https://mhormes.github.io/)
