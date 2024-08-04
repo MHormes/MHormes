@@ -38,15 +38,6 @@ Here I am working on a system called Flowcontrol. This system is created to digi
 - IntelliJ
 - Visual Studio (Code)
 
-
-## Studies
-Currently. I am a 4th year student at Fontys ICT & Software engineering located in Eindhoven.
-
-### Current Semester
-In this current semester (#8) I am performing my Graduation Internship
-<br/>
-I will be performing my graduation assignment at Quad Solutions in Eindhoven
-
 ## Links
 ###### [Portfolio](https://mhormes.github.io/)
 ###### [LinkedIn](https://www.linkedin.com/in/maarten-hormes-72a665110/)
