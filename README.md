@@ -3,7 +3,7 @@
 
 
 ## Tech interests
-I am a full stack web developer with a preference for BE related work.
+I am a full-stack software engineer with a preference for BE related work.
 <br/>
 This preference comes from my interest in creating (complex) functionality in software. 
 <br/>
