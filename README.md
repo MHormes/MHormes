@@ -29,14 +29,15 @@ Here I am working on a system called Flowcontrol. This system is created to digi
 - JavaScript (Node.js, React.js, Vue.js)
 
 ### Tools & Tech used:
+- Git
 - Docker
 - Keycloak
 - Postman
 - Sonarqube
-- JIRA
-- TailwindCSS
-- IntelliJ
-- Visual Studio (Code)
+- Podman
+- Heroku
+- Vercel
+- Render
 
 ## Links
 ###### [Portfolio](https://mhormes.github.io/)
