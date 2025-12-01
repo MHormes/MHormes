@@ -5,23 +5,15 @@
 ## Tech interests
 I am a full-stack software engineer with a preference for BE related work.
 <br/>
-This preference comes from my interest in creating (complex) functionality in software. 
+This preference comes from my interest in designing software and creating (complex) functionality. 
 <br/>
-How things look always get pushed aside.
+I use my strong **organizational skills** to keep an **overview** and ensure all facets of the solution are covered and properly integrated.
 <br/>
 
-
-### Current projects
-At this moment I am working on one (1) side project.
- - [ClipperMS](https://github.com/MHormes/Clipper-MS) - A management system for collectable Clipper lighters
-
-
-## Experience
 
 ### Current workplace
 -  [Limax](https://www.limax.nl/) - A company in the agriculture sector.<br/>
 Here I am working on a system called Flowcontrol. This system is created to digitalize the business process of Limax.
-
 
 ### Developed with:
 - C# (.NET)
@@ -42,3 +34,4 @@ Here I am working on a system called Flowcontrol. This system is created to digi
 ## Links
 ###### [Portfolio](https://mhormes.github.io/)
 ###### [LinkedIn](https://www.linkedin.com/in/maarten-hormes-72a665110/)
+###### [Buy me a Coffee](https://buymeacoffee.com/mhormes)
