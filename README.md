@@ -15,21 +15,33 @@ I use my strong **organizational skills** to keep an **overview** and ensure all
 -  [Limax](https://www.limax.nl/) - A company in the agriculture sector.<br/>
 Here I am working on a system called Flowcontrol. This system is created to digitalize the business process of Limax.
 
+### Side project
+-  [Clipper-MS](https://www.clipper-ms.com/) - A clipper lighter collection system.<br/>
+I'm the sole developer and maintainer of a system to digitalize your collection of clipper lighters.
+This system came into existance from my own need of tracking my collection
+
 ### Developed with:
 - C# (.NET)
 - Java (Spring Boot)
+- PHP (Laravel)
 - JavaScript (Node.js, React.js, Vue.js)
 
 ### Tools & Tech used:
 - Git
 - Docker
+- Podman
 - Keycloak
 - Postman
 - Sonarqube
-- Podman
 - Heroku
 - Vercel
 - Render
+- Neon
+- Cloudinary
+- MinIO
+- Postgress
+- MSSQL
+- SQLite
 
 ## Links
 ###### [Portfolio](https://mhormes.github.io/)
