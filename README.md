@@ -42,14 +42,12 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌾 Flowcontrol</h3>
-      <p>
-        Precision agriculture platform for Limax — a full-featured SaaS system
-        managing crop and flow data across the agricultural supply chain.
-      </p>
+      <p>Agriculture SaaS platform at Limax — digitalizing business processes end to end.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
       </p>
       <a href="https://flowcontrol.limax.nl">
         <img src="https://img.shields.io/badge/Live%20App-flowcontrol.limax.nl-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -57,15 +55,12 @@
     </td>
     <td width="50%" valign="top">
       <h3>🔥 Clipper-MS</h3>
+      <p>Collection management system for Clipper lighter enthusiasts. Built solo, self-hosted.</p>
       <p>
-        A dedicated collection management system for Clipper lighter enthusiasts.
-        Catalog, track, and showcase your collection — built and maintained solo,
-        fully live in production.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Self--Hosted-E57000?style=flat-square&logo=proxmox&logoColor=white" />
       </p>
       <a href="https://clipper-ms.com/">
         <img src="https://img.shields.io/badge/Live%20App-clipper--ms.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -75,32 +70,26 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎸 Sidetrack</h3>
+      <p>Website and webshop for a Dutch cover band. Built solo, self-hosted.</p>
       <p>
-        Website and webshop for a live cover band — full e-commerce experience
-        with booking, merch, and music. Designed, built, and deployed solo.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Self--Hosted-E57000?style=flat-square&logo=proxmox&logoColor=white" />
       </p>
       <a href="https://sidetracksounds.nl/">
         <img src="https://img.shields.io/badge/Live%20Site-sidetracksounds.nl-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 Homelab</h3>
+      <h3>🗂️ Portfolio</h3>
+      <p>Personal portfolio showcasing projects, skills, and experience.</p>
       <p>
-        Self-hosted infrastructure running on Proxmox — containers, VMs,
-        Home Assistant, monitoring stacks, and various internal tools.
-        Cloudflare tunnels, Kubernetes clusters, and more.
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white" />
-      </p>
-      <img src="https://img.shields.io/badge/Status-Always%20Tinkering-orange?style=for-the-badge&logo=homeassistant&logoColor=white" />
+      <a href="https://mhormes.github.io/">
+        <img src="https://img.shields.io/badge/Visit-mhormes.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
