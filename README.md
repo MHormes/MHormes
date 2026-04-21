@@ -1,6 +1,3 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maarten%20Hormes&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descSize=20)
-
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Boot;React+%7C+Vue+%7C+Nuxt+%7C+Node.js;TypeScript+%7C+JavaScript;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
