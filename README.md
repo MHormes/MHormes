@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌾 Flowcontrol &nbsp;<a href="https://flowcontrol.limax.nl"><img src="https://img.shields.io/badge/Visit-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
+      <h3>🌾 Flowcontrol &nbsp;<a href="https://flowcontrol.limax.nl">↗</a></h3>
       <p>Agriculture SaaS platform at Limax — digitalizing business processes end to end.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
@@ -51,7 +51,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔥 Clipper-MS &nbsp;<a href="https://clipper-ms.com/"><img src="https://img.shields.io/badge/Visit-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
+      <h3>🔥 Clipper-MS &nbsp;<a href="https://clipper-ms.com/">↗</a></h3>
       <p>Collection management system for Clipper lighter enthusiasts. Built solo, self-hosted.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎸 Sidetrack &nbsp;<a href="https://sidetracksounds.nl/"><img src="https://img.shields.io/badge/Visit-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
+      <h3>🎸 Sidetrack &nbsp;<a href="https://sidetracksounds.nl/">↗</a></h3>
       <p>Website and webshop for a Dutch cover band. Built solo, self-hosted.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -71,11 +71,10 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗂️ Portfolio &nbsp;<a href="https://mhormes.github.io/"><img src="https://img.shields.io/badge/Visit-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
+      <h3>🗂️ Portfolio &nbsp;<a href="https://mhormes.github.io/">↗</a></h3>
       <p>Personal portfolio showcasing projects, skills, and experience.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
       </p>
     </td>
