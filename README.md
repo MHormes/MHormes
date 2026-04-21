@@ -41,20 +41,17 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌾 Flowcontrol</h3>
+      <h3>🌾 Flowcontrol &nbsp;<a href="https://flowcontrol.limax.nl"><img src="https://img.shields.io/badge/Visit-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
       <p>Agriculture SaaS platform at Limax — digitalizing business processes end to end.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square" />
         <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
       </p>
-      <a href="https://flowcontrol.limax.nl">
-        <img src="https://img.shields.io/badge/Live%20App-flowcontrol.limax.nl-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔥 Clipper-MS</h3>
+      <h3>🔥 Clipper-MS &nbsp;<a href="https://clipper-ms.com/"><img src="https://img.shields.io/badge/Visit-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
       <p>Collection management system for Clipper lighter enthusiasts. Built solo, self-hosted.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -62,34 +59,25 @@
         <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
         <img src="https://img.shields.io/badge/Self--Hosted-E57000?style=flat-square&logo=proxmox&logoColor=white" />
       </p>
-      <a href="https://clipper-ms.com/">
-        <img src="https://img.shields.io/badge/Live%20App-clipper--ms.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎸 Sidetrack</h3>
+      <h3>🎸 Sidetrack &nbsp;<a href="https://sidetracksounds.nl/"><img src="https://img.shields.io/badge/Visit-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
       <p>Website and webshop for a Dutch cover band. Built solo, self-hosted.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Self--Hosted-E57000?style=flat-square&logo=proxmox&logoColor=white" />
       </p>
-      <a href="https://sidetracksounds.nl/">
-        <img src="https://img.shields.io/badge/Live%20Site-sidetracksounds.nl-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🗂️ Portfolio</h3>
+      <h3>🗂️ Portfolio &nbsp;<a href="https://mhormes.github.io/"><img src="https://img.shields.io/badge/Visit-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a></h3>
       <p>Personal portfolio showcasing projects, skills, and experience.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
       </p>
-      <a href="https://mhormes.github.io/">
-        <img src="https://img.shields.io/badge/Visit-mhormes.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
     </td>
   </tr>
 </table>
@@ -112,7 +100,8 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -126,7 +115,7 @@
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
@@ -144,7 +133,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E5BF?style=for-the-badge&logo=neon&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-00E5BF?style=for-the-badge&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
@@ -153,12 +142,7 @@
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-<!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
