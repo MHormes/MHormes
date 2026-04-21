@@ -36,31 +36,6 @@
 
 ---
 
-## Currently Working On
-
-<table>
-  <tr>
-    <td>
-      <b>🌱 At Work</b><br/>
-      Flowcontrol — agriculture SaaS platform at Limax
-    </td>
-    <td>
-      <b>🔧 Side Projects</b><br/>
-      Clipper-MS &amp; Sidetrack — solo-dev products live in production
-    </td>
-    <td>
-      <b>📚 Learning</b><br/>
-      Deepening Kubernetes, Kafka &amp; event-driven patterns
-    </td>
-    <td>
-      <b>🏠 Homelab</b><br/>
-      Proxmox cluster, Home Assistant, self-hosted services on Cloudflare
-    </td>
-  </tr>
-</table>
-
----
-
 ## Projects
 
 <table>
@@ -193,15 +168,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhormes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=mhormes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
