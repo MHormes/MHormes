@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Java+%7C+JavaScript+%7C+TypeScript;React+%7C+Vue+%7C+Spring+Boot;Homelab+%26+Self-Hosting+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Boot;React+%7C+Vue+%7C+Nuxt+%7C+Node.js;TypeScript+%7C+JavaScript;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Visitor Counter + Social Links -->
@@ -25,12 +25,12 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhormes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-- **Full-Stack Engineer** at [Limax](https://flowcontrol.limax.nl) — building **Flowcontrol**, a precision agriculture platform
-- Passionate about **self-hosting**, homelabs, and infrastructure-as-code
-- **Obsidian plugin contributor** — scratching my own itches in the open
-- I build side projects that actually ship and go live
-- Currently diving deeper into **Kubernetes**, **Kafka**, and **event-driven architecture**
-- Ask me about **Spring Boot**, **Vue/Nuxt**, or anything homelab-related
+- **Full-Stack Engineer** at [Limax](https://www.limax.nl/) — building **[Flowcontrol](https://flowcontrol.limax.nl)**, a precision agriculture platform
+- Love transforming ideas into reliable, scalable products — from server setup to frontend design. I like to get things done, properly.
+- Part of tech company [.Hey](https://www.dothey.nl/devs/maarten-hormes) · sole developer of [Clipper-MS](https://clipper-ms.com/)
+- Interested in **web security** and **self-hosting** — running a Proxmox homelab
+- Building things outside of work too: web apps, Obsidian plugins, IoT & Smart Home setups
+- Outside coding: playing music in [Sidetrack](https://sidetracksounds.nl/) 🎵 · 3D printing 🎨 · D&D 🎲 · Obsidian 📝
 
 <br clear="right"/>
 
