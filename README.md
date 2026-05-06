@@ -61,7 +61,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎸 Sidetrack &nbsp;<a href="https://sidetracksounds.nl/">↗</a></h3>
-      <p>Website and webshop for a Dutch cover band. Built solo, self-hosted.</p>
+      <p>Website and webshop for Sidetrack - a Dutch cover band. Built solo, self-hosted.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Self--Hosted-E57000?style=flat-square&logo=proxmox&logoColor=white" />
