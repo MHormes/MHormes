@@ -20,7 +20,7 @@
 
 ## About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhormes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img align="right" width="340" src="./profile/top-langs.svg" alt="Top Languages" />
 
 - **Full-Stack Engineer** at [Limax](https://www.limax.nl/) — building **[Flowcontrol](https://flowcontrol.limax.nl)**, a precision agriculture platform
 - Love transforming ideas into reliable, scalable products — from server setup to frontend design. I like to get things done, properly.
