@@ -24,7 +24,7 @@
 
 - **Full-Stack Engineer** at [Limax](https://www.limax.nl/) · building **[Flowcontrol](https://flowcontrol.limax.nl)**, a precision agriculture platform
 - Love transforming ideas into reliable, scalable products · from server setup to frontend design. I like to get things done, properly.
-- Part of tech company [.Hey](https://www.dothey.nl/devs/maarten-hormes) · sole developer of [Clipper-MS](https://clipper-ms.com/)
+- Sole developer of [Clipper-MS](https://clipper-ms.com/) & [Print2Play](https://printer.clipper-ms.com)
 - Interested in **web security** and **self-hosting** · running a Proxmox homelab
 - Building things outside of work too: web apps, Obsidian plugins, IoT & Smart Home setups
 - Outside coding: playing music in [Sidetrack](https://sidetracksounds.nl/) 🎵 · 3D printing 🎨 · D&D 🎲 · Obsidian 📝
