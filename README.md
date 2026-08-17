@@ -11,8 +11,6 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/maarten-hormes-72a665110/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://www.dothey.nl/devs/maarten-hormes"><img src="https://img.shields.io/badge/.hey-FF6B35?style=flat&logo=firefoxbrowser&logoColor=white" alt=".hey" /></a>
-  &nbsp;
   <a href="https://buymeacoffee.com/mhormes"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
 </p>
 
@@ -22,12 +20,12 @@
 
 <img align="right" width="340" src="./profile/top-langs.svg" alt="Top Languages" />
 
-- **Full-Stack Engineer** at [Limax](https://www.limax.nl/) · building **[Flowcontrol](https://flowcontrol.limax.nl)**, a precision agriculture platform
+- **Connectables Engineer** at [AZL](https://www.azl.nl/)
 - Love transforming ideas into reliable, scalable products · from server setup to frontend design. I like to get things done, properly.
 - Sole developer of [Clipper-MS](https://clipper-ms.com/) & [Print2Play](https://printer.clipper-ms.com)
-- Interested in **web security** and **self-hosting** · running a Proxmox homelab
+- Interested in **web security** and **self-hosting** · running a Proxmox homelab and TrueNAS server
 - Building things outside of work too: web apps, Obsidian plugins, IoT & Smart Home setups
-- Outside coding: playing music in [Sidetrack](https://sidetracksounds.nl/) 🎵 · 3D printing 🎨 · D&D 🎲 · Obsidian 📝
+- Outside coding: playing music in [Sidetrack](https://sidetracksounds.nl/) 🎵 · playing footbal at [VV Hebes](https://vvhebes.nl) · D&D 🎲 · Obsidian 📝
 
 <br clear="right"/>
 
@@ -38,16 +36,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌾 Flowcontrol &nbsp;<a href="https://flowcontrol.limax.nl">↗</a></h3>
-      <p>Agriculture SaaS platform at Limax — digitalizing business processes end to end.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square" />
-        <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🔥 Clipper-MS &nbsp;<a href="https://clipper-ms.com/">↗</a></h3>
       <p>Collection management system for Clipper lighter enthusiasts. Built solo, self-hosted.</p>
       <p>
@@ -55,6 +43,15 @@
         <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
         <img src="https://img.shields.io/badge/Self--Hosted-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗂️ Print2Play &nbsp;<a href="https://printer.clipper-ms.com/">↗</a></h3>
+      <p>D&D character sheet builder and printer for in person play</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Self--Hosted-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+        <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -67,14 +64,15 @@
         <img src="https://img.shields.io/badge/Self--Hosted-E57000?style=flat-square&logo=proxmox&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🗂️ Portfolio &nbsp;<a href="https://mhormes.github.io/">↗</a></h3>
-      <p>Personal portfolio showcasing projects, skills, and experience.</p>
+        <td width="50%" valign="top">
+      <h3>🌾 Flowcontrol &nbsp;<a href="https://flowcontrol.limax.nl">↗</a></h3>
+      <p>Agriculture SaaS platform at Limax — digitalizing business processes end to end.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square" />
+        <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
-
