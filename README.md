@@ -20,7 +20,7 @@
 
 <img align="right" width="340" src="./profile/top-langs.svg" alt="Top Languages" />
 
-- **Connectables Engineer** at [AZL](https://www.azl.nl/)
+- **Software Engineer** at [AZL](https://www.azl.nl/) - (Kotlin, Java)
 - Love transforming ideas into reliable, scalable products · from server setup to frontend design. I like to get things done, properly.
 - Sole developer of [Clipper-MS](https://clipper-ms.com/) & [Print2Play](https://printer.clipper-ms.com)
 - Interested in **web security** and **self-hosting** · running a Proxmox homelab and TrueNAS server
